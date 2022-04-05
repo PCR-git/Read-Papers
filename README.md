@@ -30,6 +30,14 @@ Pointer networks
 
 Hopfield Nets is all you need
 
+Neural-Symbolic Learning Systems: Foundations and Applications
+
+Graph neural networks meet neural-symbolic computing: A survey and perspective
+
+Markov Logic: An Interface Layer for Artificial Intelligence (Domingos, Lowd)
+
+Markov Logic Networks (Richardson & Domingos)
+
 Introduction to Graph Neural Networks
 
 Graph Neural Networks: A Review of Methods and Applications
