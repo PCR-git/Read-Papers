@@ -22,19 +22,15 @@ Hamiltonian Graph Networks with ODE Integrators: https://ml4physicalsciences.git
 
 Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective: https://www.ijcai.org/Proceedings/2020/0679.pdf
 
+Attention is all you need: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
 # To Read
 
-Attention is all you need
+Logic Tensor Networks: https://arxiv.org/pdf/2012.13635.pdf
 
-Logic Tensor networks
+Pointer Networks: https://proceedings.neurips.cc/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf
 
-Pointer networks
-
-Hopfield Nets is all you need
-
-Neural-Symbolic Learning Systems: Foundations and Applications
-
-Graph neural networks meet neural-symbolic computing: A survey and perspective
+Hopfield Networks is All You Need: https://arxiv.org/abs/2008.02217
 
 Markov Logic: An Interface Layer for Artificial Intelligence (Domingos, Lowd)
 
