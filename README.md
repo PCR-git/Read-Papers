@@ -2,23 +2,25 @@
 
 # Previously Read
 
-Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent
+Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent: http://proceedings.mlr.press/v75/jin18a/jin18a.pdf
 
-Gradient Descent Converges to Minimizers
+Gradient Descent Converges to Minimizers: http://proceedings.mlr.press/v49/lee16.pdf
 
-Gradient Descent Finds Global Minima of Deep Neural Networks
+Gradient Descent Finds Global Minima of Deep Neural Networks: http://proceedings.mlr.press/v97/du19c/du19c.pdf
 
-Dynamic Routing Between Capsules
+Dynamic Routing Between Capsules: https://www.cs.toronto.edu/~hinton/absps/DynamicRouting.pdf
 
-Matrix Capsules with EM Routing 
+Matrix Capsules with EM Routing: https://openreview.net/pdf?id=HJWLfGWRb
 
-Interaction Networks for Learning about Objects, Relations and Physics
+Interaction Networks for Learning about Objects, Relations and Physics: https://proceedings.neurips.cc/paper/2016/file/3147da8ab4a0437c15ef51a5cc7f2dc4-Paper.pdf
 
-Graph Networks as Learnable Physics Engines for Inference and Control
+Graph Networks as Learnable Physics Engines for Inference and Control: http://proceedings.mlr.press/v80/sanchez-gonzalez18a/sanchez-gonzalez18a.pdf
 
-Learning to Simulate Complex Physics with Graph Networks
+Learning to Simulate Complex Physics with Graph Networks: http://proceedings.mlr.press/v119/sanchez-gonzalez20a/sanchez-gonzalez20a.pdf
 
-Hamiltonian Graph Networks with ODE Integrators
+Hamiltonian Graph Networks with ODE Integrators: https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_30.pdf
+
+Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective: https://www.ijcai.org/Proceedings/2020/0679.pdf
 
 # To Read
 
