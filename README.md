@@ -22,6 +22,8 @@ Hamiltonian Graph Networks with ODE Integrators: https://ml4physicalsciences.git
 
 Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective: https://www.ijcai.org/Proceedings/2020/0679.pdf
 
+Learning by Abstraction- The Neural State Machine: https://papers.nips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf
+
 Attention is all you need: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
 
 # To Read
@@ -43,8 +45,6 @@ Graph Neural Networks: A Review of Methods and Applications
 A Comprehensive Survey on Graph Neural Networks
 
 Deep Learning on Graphs: A Survey
-
-Learning by Abstraction- The Neural State Machine
 
 COMPOSITIONAL ATTENTION NETWORKS FOR MACHINE REASONING
 
