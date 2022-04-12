@@ -2,6 +2,8 @@
 
 ## Previously Read
 
+Deep Belief Networks are Compact Universal Approximators: https://www.iro.umontreal.ca/~lisa/pointeurs/NECO-08-09-1081.pdf
+
 Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent: http://proceedings.mlr.press/v75/jin18a/jin18a.pdf
 
 Gradient Descent Converges to Minimizers: http://proceedings.mlr.press/v49/lee16.pdf
@@ -25,6 +27,10 @@ Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective: 
 Learning by Abstraction- The Neural State Machine: https://papers.nips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf
 
 Attention is all you need: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+Analyzing Uncertainties in Cost: Mitigating Centralization in Multi-Robot Task Allocation
+
+Assessing Optimal Assignment under Uncertainty
 
 ## To Read
 
