@@ -145,3 +145,62 @@ Risk Bounds of Multi-Pass SGD for Least Squares in the Interpolation Regime
 Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization
 
 Benign Overfitting in Two-layer Convolutional Neural Networks
+
+# Online Courses
+
+## Completed
+
+Introduction to Robotics: https://www.youtube.com/playlist?list=PL65CC0384A1798ADF
+
+Machine Learning with Graphs: https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+
+## To Do
+
+Foundations of Deep RL in 6 Lectures (Pieter Abbeel): https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
+
+Geoffrey Hintons’s Neural Nets course: https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv [12]
+
+MIT BCS 9.40 - Intro to Neural Computation: https://www.youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm [12]
+
+Yann LeCun Deep Learning: https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=1 [2]
+
+Machine Learning Theory (Ben-David) [6]: https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO
+
+CS224N: NLP with Deep Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
+
+Computer Vision (Geiger) https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_ [2]
+
+Statistical Learning Theory: https://www.youtube.com/watch?v=AsogCoscZgE&list=PL_Ig1a5kxu55ivmyrfRmeUOFeaaWuqPpg&ab_channel=MITCBMM
+
+Deep Unsupervised Learning (Pieter Abbeel) [2]: https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
+
+Causal Inference: https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0
+UCLA Theoretical Statistics: https://www.youtube.com/watch?v=AOjxy6x_rHs&list=PLN_qg0-2-0SxITXtaAsO93zPSuQx03e1I&ab_channel=ARASHAMINI
+
+Theory of Computation: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+
+Databases / SQL https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+
+Intro to Programming: https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
+
+Into to Algorithms: https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+
+Design and Analysis of Algorithms: https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&ab_channel=MITOpenCourseWare
+
+Statistical Mechanics (Leonard Susskind): https://www.youtube.com/watch?v=D1RzvXDXyqA&list=PLXLSbKIMm0kjxyp45FIY62XNgHk4ywSaH&ab_channel=Stanford [2]
+
+Stanford Reinforcement Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+
+Andrew Ng Machine Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
+MIT Artificial Intelligence: https://www.youtube.com/playlist?list=PLGRecdYLYDNfBOtW6F1t5QTH01RdA5wjj
+
+Intro to EECS: https://www.youtube.com/playlist?list=PL9B24A6A9D5754E70
+
+MIT 6.S191: Introduction to Deep Learning: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
+Intro to Computer Graphics: https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh
+
+Intro to Computer Graphics: https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E
+
+Yannic Kilcher videos: https://www.youtube.com/c/YannicKilcher
