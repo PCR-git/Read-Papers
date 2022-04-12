@@ -1,6 +1,6 @@
 # Papers
 
-# Previously Read
+## Previously Read
 
 Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent: http://proceedings.mlr.press/v75/jin18a/jin18a.pdf
 
@@ -26,7 +26,7 @@ Learning by Abstraction- The Neural State Machine: https://papers.nips.cc/paper/
 
 Attention is all you need: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
 
-# To Read
+## To Read
 
 Logic Tensor Networks: https://arxiv.org/pdf/2012.13635.pdf
 
