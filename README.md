@@ -156,83 +156,49 @@ Benign Overfitting in Two-layer Convolutional Neural Networks
 
 ## Completed
 
-Introduction to Robotics: https://www.youtube.com/playlist?list=PL65CC0384A1798ADF
+Introduction to Robotics (Stanford): https://www.youtube.com/playlist?list=PL65CC0384A1798ADF
 
-Machine Learning with Graphs: https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+Machine Learning with Graphs (Stanford): https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 
 Geoffrey Hintons’s Neural Nets course: https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv
 
 Foundations of Deep RL in 6 Lectures (Pieter Abbeel): https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 
-Machine Learning Theory (Shai Ben-David) [6]: https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO
+Machine Learning Theory (Shai Ben-David): https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO
+
+Computer Vision (Andreas Geiger, University of Tübingen): https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_
 
 ## To Do
 
-* Stanford Reinforcement Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u [2]
+* Stanford Reinforcement Learning: https://www.youtube.com/playlist? list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u [6/15]
+* CS224N: NLP with Deep Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ [6/20]
 
-* CS224N: NLP with Deep Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ [4]
+* Data-Driven Dynamical Systems with Machine Learning: https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt [2]
+* Data-Driven Control with Machine Learning: https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR [2]
 
-* Computer Vision (Geiger) https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_ [2]
-
-* Yann LeCun Deep Learning: https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&ab_channel=AlfredoCanziani  [2]
-
-* Deep Unsupervised Learning (Pieter Abbeel): https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP [2]
-
-* CS 330 - Deep Multitask and Meta Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5 [2]
-
-* MIT BCS 9.40 - Intro to Neural Computation: https://www.youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm [12]
-
-* Statistical Learning Theory
-    * 2018: https://www.youtube.com/playlist?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f [2]
-    * 2019: https://www.youtube.com/playlist?list=PL_Ig1a5kxu55ivmyrfRmeUOFeaaWuqPpg
-
-* MIT 6.S191: Introduction to Deep Learning: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
-
-* Data-Driven Control with Machine Learning: https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR
+* Yann LeCun Deep Learning: https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&ab_channel=AlfredoCanziani [2]
+* Deep Unsupervised Learning (Pieter Abbeel): https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP [2/12]
+* CS 330 - Deep Multitask and Meta Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5 [2/12]
+* MIT BCS 9.40 - Intro to Neural Computation: https://www.youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm [12/20]
 
 * Yannic Kilcher videos: https://www.youtube.com/c/YannicKilcher
+* AI Coffee Break with Letitia: https://www.youtube.com/c/AICoffeeBreak
 
-* Steve Brunton videos: https://www.youtube.com/c/Eigensteve/playlists
-
-* Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University: https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V
-
-* Shai Ben-David Logic for Computer Science: https://www.youtube.com/playlist?list=PLzVTusWerVcKx3crsij5wrRfIqWp3UXc7 [2]
-
-* Theory of Computation: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+————————————————————————————————————————————
 
 * Fluid Mechanics: https://www.youtube.com/playlist?list=PLZOZfX_TaWAGocs2k5QmTL44OKOl7rn34
+* Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University: https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V [0/25]
 
-* Databases / SQL https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
-
-* 6.0001 Intro to Programming: https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
-
-* 6.006 Intro to Algorithms: https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
-
-* Design and Analysis of Algorithms: https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&ab_channel=MITOpenCourseWare
-* 6.S096 (C/C++)
-* 6.092 (Java)
-* 6.005 (Software Construction)
-
-* Intro to Computer Graphics: https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh [2]
-
-* Intro to Computer Graphics: https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E [2]
-
-* MIT Artificial Intelligence: https://www.youtube.com/playlist?list=PLGRecdYLYDNfBOtW6F1t5QTH01RdA5wjj (2, 3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 19, 23) [2]
-
-* Statistical Mechanics (Susskind): https://www.youtube.com/watch?v=D1RzvXDXyqA&list=PLXLSbKIMm0kjxyp45FIY62XNgHk4ywSaH&ab_channel=Stanford [2]
-
-* Andrew Ng Machine Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
-
-* Dynamical Systems (Stefano Luzzato) https://www.youtube.com/playlist?list=PLLq_gUfXAnkmC-VWIJ_HW8cdOZLEtHfXJ
-
-* Stats 200B: https://www.youtube.com/watch?v=AOjxy6x_rHs&list=PLN_qg0-2-0SxITXtaAsO93zPSuQx03e1I&ab_channel=ARASHAMINI
-
-* Abstract Algebra: https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5
-
-* Analysis II: https://www.youtube.com/playlist?list=PLq-Gm0yRYwTh9tbs2XSGb_t2qGlD5EvgM
-
+* UCLA Stats 100C, Linear Models: https://www.youtube.com/playlist?list=PLN_qg0-2-0Sz2LEPUZwplheQzWXBCH18_ [7/20]
+* Logic for Computer Science (Shai Ben-David): https://www.youtube.com/playlist?list=PLzVTusWerVcKx3crsij5wrRfIqWp3UXc7 [4/25]
+* Theory of Computation: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY [0/25]
+* Statistical Learning Theory (MIT 2017): https://www.youtube.com/playlist?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f [4/19]
+* Stats 200B: https://www.youtube.com/playlist?list=PLN_qg0-2-0SxITXtaAsO93zPSuQx03e1I [0/22]
 * UCLA - Linear Algebra 115B: https://www.youtube.com/playlist?list=PL54Pt_mZzBqinpMAO6-o1vEzZzzPKx57c
 
-* Advanced Linear Algebra: https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq
-
+* 6.006 Intro to Algorithms: https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+* Design and Analysis of Algorithms: https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&ab_channel=MITOpenCourseWare
 * Advanced Algorithms: https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
+
+* Intro to Computer Graphics: https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh [2]
+* Intro to Computer Graphics: https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E [2]
